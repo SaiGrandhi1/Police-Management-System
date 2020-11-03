@@ -8,7 +8,7 @@ package police.managment.system;
 
 /**
  *
- * @author Ajith
+ * 
  */
 public class POLICEMANAGMENTSYSTEM {
 
